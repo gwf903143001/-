@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>50F5D440-B81F-4EB3-A883-7F409882E4CB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XIBA</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>60b5c825-4fb8-4975-a861-cdc06fd4b25b++8478</key>
+		<string>svn://115.28.227.1/BJS140933/Project_A/%25252525E7%25252525AC%25252525AC%25252525E5%252525258D%2525252581%25252525E4%25252525B8%2525252580%25252525E7%25252525BB%2525252584/XIBA</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XIBA.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>60b5c825-4fb8-4975-a861-cdc06fd4b25b++8478</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>60b5c825-4fb8-4975-a861-cdc06fd4b25b++8478</key>
+		<string>svn://115.28.227.1</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://115.28.227.1/BJS140933/Project_A/%25252525E7%25252525AC%25252525AC%25252525E5%252525258D%2525252581%25252525E4%25252525B8%2525252580%25252525E7%25252525BB%2525252584/XIBA/XIBA.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>60b5c825-4fb8-4975-a861-cdc06fd4b25b++8478</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>60b5c825-4fb8-4975-a861-cdc06fd4b25b++8478</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XIBA</string>
+		</dict>
+	</array>
+</dict>
+</plist>

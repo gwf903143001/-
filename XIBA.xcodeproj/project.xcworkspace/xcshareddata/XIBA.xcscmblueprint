@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "60b5c825-4fb8-4975-a861-cdc06fd4b25b++8478",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "60b5c825-4fb8-4975-a861-cdc06fd4b25b++8478" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "60b5c825-4fb8-4975-a861-cdc06fd4b25b++8478" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "50F5D440-B81F-4EB3-A883-7F409882E4CB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "60b5c825-4fb8-4975-a861-cdc06fd4b25b++8478" : "XIBA"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XIBA",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XIBA.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/115.28.227.1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "60b5c825-4fb8-4975-a861-cdc06fd4b25b++8478"
+    }
+  ]
+}
